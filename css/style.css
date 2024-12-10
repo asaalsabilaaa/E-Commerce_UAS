@@ -495,3 +495,10 @@
 }
 /*** Footer End ***/
 
+/* CSS untuk elemen input dan tombol */
+input[type="text"],
+button {
+  appearance: none;         /* Menghilangkan tampilan default */
+  -webkit-appearance: none; /* Mendukung browser berbasis WebKit */
+  -moz-appearance: none;    /* Mendukung Firefox */
+}
