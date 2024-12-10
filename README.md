@@ -4,9 +4,9 @@
 
 ![image](https://github.com/user-attachments/assets/e8375ceb-647f-4ebc-98bf-506080013d34)
 
-![image](https://github.com/user-attachments/assets/91c70def-d953-4754-94d1-76b712cc17be)
+![image](https://github.com/user-attachments/assets/f463368e-ac81-4aa0-9828-cfb50740e62c)
 
-![image](https://github.com/user-attachments/assets/af47f651-9726-4ba0-a974-997f7c2e7548)
+![image](https://github.com/user-attachments/assets/7407f4fb-ed63-4bf7-ad5e-1cc1485ab14f)
 
 ![image](https://github.com/user-attachments/assets/20d093e6-8659-4df4-8fba-5b5083d40890)
 
@@ -19,7 +19,7 @@
 - Contoh Payment Details oleh Midtrans setelah mengklik Beli Sekarang dihalaman landing page sebelumnya.
 ![image](https://github.com/user-attachments/assets/cbae4cc2-e277-4aba-9277-c3e40d560ba6)
 
-![image](https://github.com/user-attachments/assets/7d37e58b-5a47-4544-95ca-6294ca356b4e)
+![image](https://github.com/user-attachments/assets/05ffaf1b-b49f-4e4f-bfef-3cfa16529c17)
 
 ![image](https://github.com/user-attachments/assets/b8fc6a07-f3bb-4714-869d-8f992f27d168)
 
